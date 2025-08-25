@@ -1,0 +1,36 @@
+{
+  "name": "forsell",
+  "version": "1.0.0",
+  "description": "This is an application for selling and buying that you need.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amirhossein-Olyanasabnarab/For-Sell.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "expressJs",
+    "mongoDB",
+    "mongoose",
+    "ejs",
+    "etc."
+  ],
+  "author": "Amir Hossein Olyanasab Narab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amirhossein-Olyanasabnarab/For-Sell/issues"
+  },
+  "homepage": "https://github.com/Amirhossein-Olyanasabnarab/For-Sell#readme",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
